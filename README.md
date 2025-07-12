@@ -1,16 +1,41 @@
-## Hi there 👋
+# 통계로 바라본 혐오 - 중학교 3학년 도덕 수업
 
-<!--
-**NationalEthics/nationalethics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+본 프로젝트는 중학교 3학년 도덕 수업을 위해 제작된 3차시 분량의 수업 지도안입니다.  
+학생들이 사회적 혐오 표현을 비판적으로 이해하고, 데이터를 통해 이를 분석하며, 카드뉴스를 통해 해결방안을 모색할 수 있도록 구성되었습니다.
 
-Here are some ideas to get you started:
+## 📚 수업 개요
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **대상 학년**: 중학교 3학년
+- **총 차시**: 3차시
+- **교과 연계**: 도덕, 수학, 정보
+- **주제**: 통계 자료를 활용한 혐오 표현 분석과 실천 기획
+
+## 🗂️ 파일 구성
+
+| 파일명              | 설명                                |
+|---------------------|-------------------------------------|
+| `index.html`        | 수업 지도안을 웹사이트 형태로 제공 |
+| `style.css`         | 사이트의 기본 스타일 시트          |
+| `script.js`         | 간단한 상호작용을 위한 자바스크립트 |
+| `README.md`         | 저장소 설명 문서                   |
+
+## 🌐 사용 방법
+
+1. 이 저장소를 클론하거나 다운로드합니다.
+2. `index.html`을 브라우저에서 실행하면 웹 수업안 페이지를 확인할 수 있습니다.
+3. CodePen 등 실습 환경에서도 각 코드 파일을 복사하여 테스트할 수 있습니다.
+
+## 💡 수업 구성 요약
+
+1. **1차시**: 혐오 및 편견 개념 이해, 사례 탐색
+2. **2차시**: 통계 해석 및 공감 수준 분석
+3. **3차시**: 카드뉴스 제작을 통한 해결방안 기획 (거시적/미시적 접근 포함)
+
+## ⚠️ 참고 사항
+
+- 본 수업안은 교육 현장의 현실을 고려하여 성소수자 관련 주제는 제외하였습니다.
+- 활동 예시는 공감 수준 분류, 청소년 대상 설문 통계 분석 등을 포함합니다.
+
+## 📧 문의
+
+문의 또는 수정 제안은 [Issues](https://github.com/your-repo/issues) 탭을 통해 남겨주세요.
